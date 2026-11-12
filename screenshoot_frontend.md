@@ -13,4 +13,7 @@
 ## 5. Halaman FORM
 ![Halaman FORM](screenshoot/frontend/form.png)
 
+## 5. Halaman Detail
+![Halaman FORM](screenshoot/frontend/detail.png)
+
 
