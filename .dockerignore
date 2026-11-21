@@ -1,0 +1,32 @@
+# Git & Version Control
+.git
+.gitignore
+.gitattributes
+
+# File Docker (tidak perlu disalin ke dalam image)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# File konfigurasi sensitif & log
+.env
+*.log
+
+# File database dump (biasanya di-import terpisah ke container MySQL)
+*.sql
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File sistem OS
+.DS_Store
+Thumbs.db
+
+# Dokumentasi & dependensi yang tidak diperlukan saat runtime
+README.md
+LICENSE
+node_modules/
+tests/
